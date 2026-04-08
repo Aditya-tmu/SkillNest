@@ -114,8 +114,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👨‍💻 Developed By
 **Aditya**
-- [GitHub](https://github.com/your-username)
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [GitHub](https://github.com/Aditya-tmu)
+- [LinkedIn](www.linkedin.com/in/aditya-kumar-835068277)
 
 ---
 *Created with ❤️ for the student community.*
